@@ -1,1 +1,1 @@
-# StudentManagementSystem
+# PythonGUI project
